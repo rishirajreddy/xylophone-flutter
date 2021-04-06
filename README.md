@@ -1,6 +1,7 @@
 # xylo_app
 
 A new Flutter project.
+Play Different sounds of xylophone in this app.Enjoy!!
 
 ## Getting Started
 
