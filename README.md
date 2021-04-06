@@ -22,3 +22,8 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://user-images.githubusercontent.com/64702890/113762743-8b896e80-9736-11eb-9c37-6eb1fa38845d.gif" width="200" height="400" align="center"/> 
 
 </container>
+<style>
+  conatainer {
+    display: inline-block;
+  }
+  </style>
