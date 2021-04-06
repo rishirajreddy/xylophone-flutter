@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 ## Screenshots
 ![ScreenshotXylo](https://user-images.githubusercontent.com/64702890/113761821-8a0b7680-9735-11eb-9c11-12c1b86e4f1f.png)
 
-<img src="https://user-images.githubusercontent.com/64702890/113761821-8a0b7680-9735-11eb-9c11-12c1b86e4f1f.png" width="100" height:"100>
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
